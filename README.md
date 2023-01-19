@@ -1,4 +1,5 @@
-
+This project is part of my Frontend Development path course at Scrimba.
+It is about Enkare Nairobi.
 
 Quick start:
 
